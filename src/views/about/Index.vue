@@ -19,8 +19,6 @@
         'theme-features',
         'affiliates',
         'newsletter',
-        'pro-features',
-        'info',
       ]),
     ],
 

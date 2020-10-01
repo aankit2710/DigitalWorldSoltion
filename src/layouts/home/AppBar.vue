@@ -7,7 +7,7 @@
       elevation="1"
       height="80"
     >
-      <base-img
+      <!--<base-img
         :src="require('@/assets/logo_old.svg')"
         class="mr-3 hidden-xs-only"
         contain
@@ -18,7 +18,15 @@
         :src="require('@/assets/logo_old.svg')"
         contain
         max-width="128"
-      />
+      />-->
+      <v-toolbar-title
+        active-class="text--primary"
+        class="font-weight-bold"
+        min-width="96"
+        text
+      >
+        Digital World Solution
+      </v-toolbar-title>
 
       <v-spacer />
 
