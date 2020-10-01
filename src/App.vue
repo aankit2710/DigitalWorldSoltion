@@ -9,7 +9,7 @@
     name: 'App',
     metaInfo: {
       title: 'App',
-      titleTemplate: '%s | websites Owner',
+      titleTemplate: '%s | Digital World Solution',
       htmlAttrs: { lang: 'en' },
       meta: [
         { charset: 'utf-8' },
